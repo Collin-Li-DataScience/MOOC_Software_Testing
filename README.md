@@ -1,5 +1,6 @@
-# INFO115-homework1
+# Software Testing, Analysis, and Quality Assurance
 
-Collin (Mucong) Li
+**Author** : Mucong (Collin) Li
 
-Student ID: 18937404
+## Technical
+**Language**: Java (Eclipse IDE for Java Developers)      
